@@ -1,0 +1,9 @@
+[package]
+name = "stuie"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aws-sdk-cloudwatch = "1.44.0"
+ratatui = "0.28.1"
+tokio = "1.39.3"
